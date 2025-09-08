@@ -1,0 +1,235 @@
+[
+  {
+    "id": 1,
+    "name": "Sofá de 3 cuerpos",
+    "price": 1800.00,
+    "image": "assets/Sofá de 3.jpeg",
+    "category": "Hogar"
+  },
+  {
+    "id": 2,
+    "name": "Mesa de comedor 6 puestos",
+    "price": 1200.00,
+    "image": "assets/Comedor 6 Puestos Liverpool con Butaco Plata.jpeg",
+    "category": "Hogar"
+  },
+  
+  {
+    "id": 3,
+    "name": "Ratón Inalámbrico, Led, Recarble Con Receptor USB",
+    "price": 53.99,
+    "image": "assets/Ratón.jpeg",
+    "category": "Accesorios"
+  },
+  {
+    "id": 4,
+    "name": "Auriculares Inalámbricos HP TWS 5.3 Tactil",
+    "price": 95.99,
+    "image": "assets/audifonohp.jpeg",
+    "category": "Accesorios"
+  },
+   {
+    "id": 5,
+    "name": "Juego De Piesas Anillo, Collar, Pulsera",
+    "price": 74.90,
+    "image": "assets/pulseras.jpeg",
+    "category": "Accesorios"
+  },
+  {
+    "id": 6,
+    "name": "Reloj Cronógrafo Deportivo AIYISHI",
+    "price": 280.00,
+    "image": "assets/reloj2.jpeg",
+    "category": "Accesorios"
+  },
+  {
+    "id": 7,
+    "name": "Celular Redmi 13x 8GB + 256GB Azul",
+    "price": 750.00,
+    "image": "assets/Smartphone Xiaomi Redmi 13X.jpeg",
+    "category": "Accesorios"
+  },
+  {
+    "id": 8,
+    "name": "Celular Xiaomi Redmi 14c 4GB Ram 128GB Azul",
+    "price": 549.00,
+    "image": "assets/Xiaomi Redmi 14C Azul_.jpeg",
+    "category": "Accesorios"
+  },
+  {
+    "id": 9,
+    "name": "Perfeme de Hombre Nitro Air EDT 100ml",
+    "price": 75.00,
+    "image": "assets/Nitro Air de CyZone.jpeg",
+    "category": "Accesorios"
+  },
+  {
+    "id": 10,
+    "name": "Perfeme de Hombre Nitro Night 100ml",
+    "price": 86.00,
+    "image": "assets/📍Perfumes Nitro Night  de hombre __📍Precio _1,220__📍Tenemos delivery a puerto plata y envíos nacionales disponibles 🚚__📍Escríbenos al Dm o al ws 849-657-9619 📲.jpeg",
+    "category": "Accesorios"
+  },
+  {
+    "id": 11,
+    "name": "Perfeme de Hombre Nitro Air EDT 100ml",
+    "price": 95.00,
+    "image": "assets/Perfume Nitro.jpeg",
+    "category": "Accesorios"
+  },
+  {
+    "id": 12,
+    "name": "Camisa manga larga",
+    "price": 110.00,
+    "image": "assets/camisa.jpg",
+    "category": "Moda"
+  },
+  {
+    "id": 13,
+    "name": "Pantalón de traje",
+    "price": 89.00,
+    "image": "assets/slin fit.jpg",
+    "category": "Moda"
+  },
+
+  {
+    "id": 14,
+    "name": "Zapatos De Charol",
+    "price": 100.00,
+    "image": "assets/charol.jpg",
+    "category": "Zapatillas"
+  },
+  {
+    "id": 15,
+    "name": "NIKE AIR MAX 90",
+    "price": 599.90,
+    "image": "assets/NIKE AIR MAX 90 SNEAKER MAAT 45.jpeg",
+    "category": "Zapatillas"
+  },
+  {
+    "id": 16,
+    "name": "NIKE AIR MAX SC",
+    "price": 215.00,
+    "image": "assets/Nike Court Shot White Black - UK 6_5.jpeg",
+    "category": "Zapatillas"
+  },
+  {
+    "id": 17,
+    "name": "NIKE MERCURIAL VAPOR 16 CLUB",
+    "price": 289.00,
+    "image": "assets/Nike Jr_ Mercurial Vapor 16 Club Little_Big Kids' Turf Low-Top Soccer Shoes.jpeg",
+    "category": "Zapatillas"
+  },
+  {
+    "id": 18,
+    "name": "NIKE REVOLUTION 8",
+    "price": 219.00,
+    "image": "assets/Buy Nike Black_White Revolution 8 Road Running Trainers from the Next UK online shop.jpeg",
+    "category": "Zapatillas"
+  },
+  {
+    "id": 19,
+    "name": "NIKE UPLIFT SC",
+    "price": 259.00,
+    "image": "assets/Nike Uplift Sc Gs Sneakers - Black.jpeg",
+    "category": "Zapatillas"
+  },
+   {
+    "id": 20,
+    "name": "NIKE AIR ZOOM",
+    "price": 439.00,
+    "image": "assets/Sko Nike Air Zoom Upturn SC för kvinnor.jpeg",
+    "category": "Zapatillas"
+  },
+  {
+    "id": 21,
+    "name": "TENIS NIKE HOMBRE COURT SHOT",
+    "price": 215.00,
+    "image": "assets/Tenis para hombre Nike Court Shot - Blanco.jpeg",
+    "category": "Zapatillas"
+  },
+  {
+    "id": 22,
+    "name": "NIKE REVOLUTION 7",
+    "price": 155.90,
+    "image": "assets/✨ Tênis Nike Revolution 7 Masculino - Preto.jpeg",
+    "category": "Zapatillas"
+  },
+  {
+    "id": 23,
+    "name": "NIKE QUEST 6",
+    "price": 349.90,
+    "image": "assets/Zapatillas Para Hombre Nike Quest 6 Gris.jpeg",
+    "category": "Zapatillas"
+  },
+  {
+    "id": 24,
+    "name": "NIKE REVOLUTION 7",
+    "price": 153.90,
+    "image": "assets/Zapatillas Para Hombre Nike Revolution 7 Asfalto Negro.jpeg",
+    "category": "Zapatillas"
+  },
+  {
+    "id": 25,
+    "name": "M NIKE PROMINA",
+    "price": 179.90,
+    "image": "assets/Size 10 - Nike Promina Dusty Cactus Mens Running Work Out Shoe No Lid.jpeg",
+    "category": "Zapatillas"
+  },
+  {
+    "id": 26,
+    "name": "NIKE AIR MAX NUAXIS",
+    "price": 244.90,
+    "image": "assets/Nike Air Max Nuaxis Men's Shoes.jpeg",
+    "category": "Zapatillas"
+  },
+  {
+    "id": 27,
+    "name": "CALZADO PARA HOMBRE NIKE PROMINA",
+    "price": 214.90,
+    "image": "assets/Calzado Para Hombre Nike Promina Gris.jpeg",
+    "category": "Zapatillas"
+  },
+  {
+    "id": 28,
+    "name": "Nike Air Zoom Original",
+    "price": 350.00,
+    "image": "assets/chimp_nike.jpg",
+    "category": "Deportes"
+  },
+  {
+    "id": 29,
+    "name": "REEBOK ULTRA FLASH",
+    "price": 249.00,
+    "image": "assets/REEBOK PRIME SET.jpeg",
+    "category": "Zapatillas"
+  },
+  {
+    "id": 30,
+    "name": "ENERGEN LUX",
+    "price": 229.00,
+    "image": "assets/Reebok Energen Lu.jpeg",
+    "category": "Zapatillas"
+  },
+  {
+    "id": 31,
+    "name": "REEBOK BB 1000",
+    "price": 210.00,
+    "image": "assets/REEBOK BB 1000.jpeg",
+    "category": "Zapatillas"
+  },
+   {
+    "id": 32,
+    "name": "ERS WORLD",
+    "price": 450.00,
+    "image": "assets/ERS WORLD.jpeg",
+    "category": "Zapatillas"
+  },
+  {
+    "id": 33,
+    "name": "Raqueta de tenis Wilson",
+    "price": 680.00,
+    "image": "assets/raqueta.jpg",
+    "category": "Deportes"
+  }
+]
